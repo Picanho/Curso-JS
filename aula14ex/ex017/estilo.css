@@ -1,5 +1,6 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(27, 169, 194);
+    color: aliceblue;
 }
 
 header {
@@ -18,4 +19,17 @@ box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.753);
 
 footer {
 text-align: center;
+}
+
+select {  overflow:hidden; }
+
+img {
+    width: 150px;
+    height: 150px;
+    padding-left: 10%;
+}
+
+.lapis {
+    width: 80px;
+    padding-right: 10%;
 }
