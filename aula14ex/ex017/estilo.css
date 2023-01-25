@@ -32,4 +32,5 @@ img {
 .lapis {
     width: 80px;
     padding-right: 10%;
+    transform: rotate(-20deg);
 }
